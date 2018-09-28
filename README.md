@@ -9,3 +9,4 @@ Send file content to TCP endpoint.
 * `-p`: Port. Mandatory to specify.
 * `-i`: Interval. Give an interval of 1 second between every line passed.
 * `-crlf`: Specify line ending with CRLF.
+* `-v`: Verbose o/p of the lines read.
